@@ -1,0 +1,4 @@
+#include <winuser.h>
+
+/* Embed manifest for Common Controls v6 visual styles */
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "DesktopWord.exe.manifest"

@@ -1,0 +1,13 @@
+# Build output
+build/
+DesktopWord.exe
+
+# Runtime generated files
+progress.dat
+familiar.dat
+
+# Editor / IDE
+.vscode/
+*.swp
+*.swo
+*~
