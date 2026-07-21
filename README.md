@@ -24,20 +24,9 @@
 
 ## 📸 截图
 
-> 请将截图保存为 PNG 放入 `screenshots/` 目录，取消下方注释即可显示。
-
-```md
 ![桌面单词显示](screenshots/desktop.png)
 ![词库管理](screenshots/wordbank.png)
 ![设置](screenshots/settings.png)
-```
-
-截图建议内容：
-1. **桌面显示** — 多个单词浮在桌面右上角的效果
-2. **词库管理** — 打开词库管理对话框，展现筛选和标记功能
-3. **设置面板** — 设置对话框全貌
-
-Windows 截图快捷键：`Win + Shift + S` → 拖选区域 → 保存到 `screenshots/`
 
 ## 🔧 构建
 
